@@ -1,2 +1,0 @@
-# gestao_vendas
-# curso
